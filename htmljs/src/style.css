@@ -1,0 +1,19 @@
+*{
+    background-color: gray;
+    text-align: center;
+    margin-top:50px;
+}
+h1{
+font-size: 30px
+}
+#taskInput{
+    background-color:white;
+    padding: 20px;
+    border-radius:5px;
+}
+.btn-add{
+padding: 20px;
+background-color:black;
+border-radius: 5px;
+color:white;
+}
